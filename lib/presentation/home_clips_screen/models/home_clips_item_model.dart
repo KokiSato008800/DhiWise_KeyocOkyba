@@ -1,1 +1,1 @@
-class HomeClipsItemModel { }
+class HomeClipsItemModel {}

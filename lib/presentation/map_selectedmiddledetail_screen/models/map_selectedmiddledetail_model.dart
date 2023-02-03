@@ -1,1 +1,1 @@
-class MapSelectedmiddledetailModel { }
+class MapSelectedmiddledetailModel {}

@@ -1,1 +1,1 @@
-class ShareListDetailModel { }
+class ShareListDetailModel {}

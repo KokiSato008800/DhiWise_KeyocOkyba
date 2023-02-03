@@ -1,1 +1,1 @@
-class FinishSignupModel { }
+class FinishSignupModel {}

@@ -1,1 +1,1 @@
-class MapPhonecallModel { }
+class MapPhonecallModel {}

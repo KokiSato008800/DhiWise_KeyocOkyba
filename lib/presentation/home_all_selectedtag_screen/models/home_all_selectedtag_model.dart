@@ -1,1 +1,1 @@
-class HomeAllSelectedtagModel { }
+class HomeAllSelectedtagModel {}

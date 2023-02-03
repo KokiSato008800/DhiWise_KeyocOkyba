@@ -1,1 +1,1 @@
-class ListlinetwentyfiveItemModel { }
+class ListlinetwentyfiveItemModel {}

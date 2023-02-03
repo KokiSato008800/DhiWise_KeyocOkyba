@@ -280,12 +280,14 @@ enum ButtonShape {
   RoundedBorder12,
   RoundedBorder5,
 }
+
 enum ButtonPadding {
   PaddingAll8,
   PaddingAll11,
   PaddingAll4,
   PaddingT15,
 }
+
 enum ButtonVariant {
   OutlineIndigo400,
   FillIndigo400,
@@ -294,6 +296,7 @@ enum ButtonVariant {
   OutlineIndigo400_1,
   FillBluegray10001,
 }
+
 enum ButtonFontStyle {
   InterRegular12,
   InterBold16,

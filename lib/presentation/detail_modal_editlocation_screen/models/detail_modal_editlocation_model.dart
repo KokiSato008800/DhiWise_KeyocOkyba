@@ -1,1 +1,1 @@
-class DetailModalEditlocationModel { }
+class DetailModalEditlocationModel {}

@@ -1,1 +1,1 @@
-class ImportlistOpenurlModel { }
+class ImportlistOpenurlModel {}

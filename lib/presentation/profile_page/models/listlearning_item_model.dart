@@ -1,1 +1,1 @@
-class ListlearningItemModel { }
+class ListlearningItemModel {}

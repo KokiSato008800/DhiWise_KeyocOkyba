@@ -1,1 +1,1 @@
-class Listrectangletwentynine1ItemModel { }
+class Listrectangletwentynine1ItemModel {}

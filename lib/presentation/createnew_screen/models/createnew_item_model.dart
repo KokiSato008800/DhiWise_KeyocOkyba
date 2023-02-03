@@ -1,1 +1,1 @@
-class CreatenewItemModel { }
+class CreatenewItemModel {}

@@ -1,1 +1,1 @@
-class DetailModalDatepickerModel { }
+class DetailModalDatepickerModel {}

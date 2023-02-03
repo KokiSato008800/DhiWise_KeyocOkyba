@@ -1,1 +1,1 @@
-class HomeAllItemModel { }
+class HomeAllItemModel {}

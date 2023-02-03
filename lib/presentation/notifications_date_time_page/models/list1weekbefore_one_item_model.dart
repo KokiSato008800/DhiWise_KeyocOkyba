@@ -1,1 +1,1 @@
-class List1weekbeforeOneItemModel { }
+class List1weekbeforeOneItemModel {}

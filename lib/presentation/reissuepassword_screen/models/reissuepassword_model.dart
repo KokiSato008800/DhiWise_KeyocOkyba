@@ -1,1 +1,1 @@
-class ReissuepasswordModel { }
+class ReissuepasswordModel {}

@@ -1,1 +1,1 @@
-class ShareListItemModel { }
+class ShareListItemModel {}

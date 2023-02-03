@@ -1,1 +1,1 @@
-class CalenderSelectedModel { }
+class CalenderSelectedModel {}

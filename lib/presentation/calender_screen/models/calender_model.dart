@@ -1,1 +1,1 @@
-class CalenderModel { }
+class CalenderModel {}

@@ -1,7 +1,18 @@
-import 'package:keyocokyba/core/app_export.dart';import 'package:keyocokyba/presentation/importlist_loading_page/models/importlist_loading_model.dart';class ImportlistLoadingController extends GetxController {ImportlistLoadingController(this.importlistLoadingModelObj);
+import 'package:keyocokyba/core/app_export.dart';
+import 'package:keyocokyba/presentation/importlist_loading_page/models/importlist_loading_model.dart';
 
-Rx<ImportlistLoadingModel> importlistLoadingModelObj;
+class ImportlistLoadingController extends GetxController {
+  ImportlistLoadingController(this.importlistLoadingModelObj);
 
-@override void onReady() { super.onReady(); } 
-@override void onClose() { super.onClose(); } 
- }
+  Rx<ImportlistLoadingModel> importlistLoadingModelObj;
+
+  @override
+  void onReady() {
+    super.onReady();
+  }
+
+  @override
+  void onClose() {
+    super.onClose();
+  }
+}

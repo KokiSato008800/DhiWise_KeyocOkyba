@@ -1,1 +1,1 @@
-class DetailModalListshareModel { }
+class DetailModalListshareModel {}

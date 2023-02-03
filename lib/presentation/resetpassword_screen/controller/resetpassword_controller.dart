@@ -1,11 +1,26 @@
-import 'package:keyocokyba/core/app_export.dart';import 'package:keyocokyba/presentation/resetpassword_screen/models/resetpassword_model.dart';import 'package:flutter/material.dart';class ResetpasswordController extends GetxController {TextEditingController rectangleFifteenController = TextEditingController();
+import 'package:keyocokyba/core/app_export.dart';
+import 'package:keyocokyba/presentation/resetpassword_screen/models/resetpassword_model.dart';
+import 'package:flutter/material.dart';
 
-TextEditingController rectangleNineController = TextEditingController();
+class ResetpasswordController extends GetxController {
+  TextEditingController rectangleFifteenController = TextEditingController();
 
-TextEditingController rectangleSixteenController = TextEditingController();
+  TextEditingController rectangleNineController = TextEditingController();
 
-Rx<ResetpasswordModel> resetpasswordModelObj = ResetpasswordModel().obs;
+  TextEditingController rectangleSixteenController = TextEditingController();
 
-@override void onReady() { super.onReady(); } 
-@override void onClose() { super.onClose(); rectangleFifteenController.dispose(); rectangleNineController.dispose(); rectangleSixteenController.dispose(); } 
- }
+  Rx<ResetpasswordModel> resetpasswordModelObj = ResetpasswordModel().obs;
+
+  @override
+  void onReady() {
+    super.onReady();
+  }
+
+  @override
+  void onClose() {
+    super.onClose();
+    rectangleFifteenController.dispose();
+    rectangleNineController.dispose();
+    rectangleSixteenController.dispose();
+  }
+}

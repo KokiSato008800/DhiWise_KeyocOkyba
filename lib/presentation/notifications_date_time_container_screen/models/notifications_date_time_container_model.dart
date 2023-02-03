@@ -1,1 +1,1 @@
-class NotificationsDateTimeContainerModel { }
+class NotificationsDateTimeContainerModel {}

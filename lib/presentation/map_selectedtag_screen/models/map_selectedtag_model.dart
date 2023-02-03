@@ -1,1 +1,1 @@
-class MapSelectedtagModel { }
+class MapSelectedtagModel {}

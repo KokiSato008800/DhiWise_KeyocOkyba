@@ -1,1 +1,1 @@
-class DetailModalBeenevaluationModel { }
+class DetailModalBeenevaluationModel {}

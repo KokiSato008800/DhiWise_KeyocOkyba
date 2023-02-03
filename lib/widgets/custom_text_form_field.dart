@@ -274,11 +274,13 @@ enum TextFormFieldPadding {
   PaddingT11,
   PaddingT9,
 }
+
 enum TextFormFieldShape {
   RoundedBorder5,
   RoundedBorder22,
   RoundedBorder12,
 }
+
 enum TextFormFieldVariant {
   None,
   UnderLineIndigo50,
@@ -286,6 +288,7 @@ enum TextFormFieldVariant {
   FillGray50,
   FillWhiteA700,
 }
+
 enum TextFormFieldFontStyle {
   InterRegular12Indigo400,
   InterRegular12,

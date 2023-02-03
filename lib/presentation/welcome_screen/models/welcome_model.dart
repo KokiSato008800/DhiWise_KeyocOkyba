@@ -1,1 +1,1 @@
-class WelcomeModel { }
+class WelcomeModel {}

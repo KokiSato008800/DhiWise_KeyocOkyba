@@ -1,1 +1,1 @@
-class ResetpasswordModel { }
+class ResetpasswordModel {}

@@ -1,1 +1,1 @@
-class HomeMemosItemModel { }
+class HomeMemosItemModel {}

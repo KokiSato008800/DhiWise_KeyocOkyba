@@ -1,1 +1,1 @@
-class HomeTrendsItemModel { }
+class HomeTrendsItemModel {}

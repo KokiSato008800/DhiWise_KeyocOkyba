@@ -1,1 +1,1 @@
-class EdittagsModel { }
+class EdittagsModel {}

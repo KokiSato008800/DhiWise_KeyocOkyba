@@ -1,1 +1,1 @@
-class ListgoogletranslateItemModel { }
+class ListgoogletranslateItemModel {}

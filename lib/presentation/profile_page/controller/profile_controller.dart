@@ -1,7 +1,18 @@
-import 'package:keyocokyba/core/app_export.dart';import 'package:keyocokyba/presentation/profile_page/models/profile_model.dart';class ProfileController extends GetxController {ProfileController(this.profileModelObj);
+import 'package:keyocokyba/core/app_export.dart';
+import 'package:keyocokyba/presentation/profile_page/models/profile_model.dart';
 
-Rx<ProfileModel> profileModelObj;
+class ProfileController extends GetxController {
+  ProfileController(this.profileModelObj);
 
-@override void onReady() { super.onReady(); } 
-@override void onClose() { super.onClose(); } 
- }
+  Rx<ProfileModel> profileModelObj;
+
+  @override
+  void onReady() {
+    super.onReady();
+  }
+
+  @override
+  void onClose() {
+    super.onClose();
+  }
+}

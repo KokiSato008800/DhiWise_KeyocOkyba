@@ -1,1 +1,1 @@
-class ListellipsesevenThreeItemModel { }
+class ListellipsesevenThreeItemModel {}

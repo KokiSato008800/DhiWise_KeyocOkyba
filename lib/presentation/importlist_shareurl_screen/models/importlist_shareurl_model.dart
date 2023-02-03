@@ -1,1 +1,1 @@
-class ImportlistShareurlModel { }
+class ImportlistShareurlModel {}

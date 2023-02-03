@@ -1,1 +1,1 @@
-class ImportlistOpenurlConfirmModel { }
+class ImportlistOpenurlConfirmModel {}

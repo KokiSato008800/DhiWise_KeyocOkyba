@@ -1,1 +1,1 @@
-class SearchtagsModel { }
+class SearchtagsModel {}

@@ -1,1 +1,1 @@
-class DetailModalEditmemoModel { }
+class DetailModalEditmemoModel {}

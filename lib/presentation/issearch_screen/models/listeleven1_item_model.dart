@@ -1,1 +1,1 @@
-class Listeleven1ItemModel { }
+class Listeleven1ItemModel {}

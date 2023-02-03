@@ -1,1 +1,1 @@
-class DetailModalCustomreminderModel { }
+class DetailModalCustomreminderModel {}
